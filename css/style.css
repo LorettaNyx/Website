@@ -50,4 +50,12 @@ article{
 }
 footer{
     clear: both;
+    text-align: center;
+}
+
+/*END OF FOOTER*/
+
+/*-------------------RESPONSIVE----------------------------*/
+@media screen and (max-width:768px){
+    
 }
