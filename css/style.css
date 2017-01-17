@@ -61,7 +61,7 @@ ul.nav-container li.icon {display: none;}
   ul.nav-container li.icon {
     float: right;
     display: inline-block;
-    padding: 1.5% 3.5% 0 0;
+    padding: 1.5% 6   % 0 0;
     }
   ul.nav-container.responsive {position: relative;}
   ul.nav-container.responsive li.icon {
