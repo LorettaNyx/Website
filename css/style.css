@@ -3,7 +3,7 @@
     margin: 0;
     border: 0;
 }
-   
+   canvas {display: block;}
 /*Navigation Bar*/
 .navigation{
     /*position: fixed; */
